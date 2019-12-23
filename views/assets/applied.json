@@ -1,0 +1,58 @@
+[
+    
+    {
+        "tooth": {
+            "id": 17,
+            "x": 25,
+            "y": 0
+        },
+        "face": "X",
+        "status":"completed",
+        "treatment": { "id":"01.02", "name":"Extraccion", "applyFace":false, "applyTooth":true }
+    },
+    {
+        "tooth": {
+            "id": 18,
+            "x": 0,
+            "y": 0
+        },
+        "face": "C",
+        "status":"completed",
+        "treatment": {
+            "id": "02.01",
+            "name": "Obturacion c/ amalgama: cavidad simple - solo cara",
+            "applyFace": true,
+            "applyTooth": false
+        }
+    },
+    {
+        "tooth": {
+            "id": 15,
+            "x": 75,
+            "y": 0
+        },
+        "face": "D",
+        "status":"completed",
+        "treatment": {
+            "id": "02.01",
+            "name": "Obturacion c/ amalgama: cavidad simple - solo cara",
+            "applyFace": true,
+            "applyTooth": false
+        }
+    },
+    {
+        "tooth": {
+            "id": 16,
+            "x": 50,
+            "y": 0
+        },
+        "status":"completed",
+        "face": "X",
+        "treatment": {
+            "id": "02.02",
+            "name": "Obturacion c/ amalgama: cavidad compuesta - solo diente",
+            "applyFace": false,
+            "applyTooth": true
+        }
+    }
+]

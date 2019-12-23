@@ -1,0 +1,102 @@
+{
+    "tests": [
+        {
+            "id": "5c735141a33a6727e84f44ea",
+            "name": "Labios"
+        },
+        {
+            "id": "5c73514da33a6727e84f44eb",
+            "name": "Vestibulo"
+        },
+        {
+            "id": "5c735157a33a6727e84f44ec",
+            "name": "Paladar"
+        },
+        {
+            "id": "5c735160a33a6727e84f44ed",
+            "name": "Itsmo / Orof"
+        },
+        {
+            "id": "5c73516ca33a6727e84f44ee",
+            "name": "Piso boca"
+        },
+        {
+            "id": "5c735176a33a6727e84f44ef",
+            "name": "Reb. Alveolar"
+        },
+        {
+            "id": "5c735181a33a6727e84f44f0",
+            "name": "Paradencio"
+        },
+        {
+            "id": "5c73518ba33a6727e84f44f1",
+            "name": "Cuello"
+        },
+        {
+            "id": "5c735194a33a6727e84f44f2",
+            "name": "Color"
+        }
+    ],
+    "historics": [
+        {
+            "id": "5c76e4d751226e0e10542b99",
+            "name": "Problemas Cardiacos"
+        },
+        {
+            "id": "5c76e4d751226e0e10542b9a",
+            "name": "Problemas Pulmonares"
+        },
+        {
+            "id": "5c76e4d751226e0e10542b9b",
+            "name": "Problemas Hepaticos"
+        },
+        {
+            "id": "5c76e4d751226e0e10542b9c",
+            "name": "Problemas Renales"
+        },
+        {
+            "id": "5c76e4d751226e0e10542b9d",
+            "name": "Problemas Estomacales"
+        },
+        {
+            "id": "5c76e4d751226e0e10542b9e",
+            "name": "Problemas Visuales"
+        },
+        {
+            "id": "5c76e4d751226e0e10542b9f",
+            "name": "Dolores de cabeza"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba0",
+            "name": "Artritis"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba1",
+            "name": "ETS"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba2",
+            "name": "Sinusitis"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba3",
+            "name": "Dolor de Oido"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba4",
+            "name": "Diabetes"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba5",
+            "name": "Sangrado Prolongado"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba6",
+            "name": "Hemofilia"
+        },
+        {
+            "id": "5c76e4d751226e0e10542ba7",
+            "name": "Es alergico a la penincilina"
+        }
+    ]
+}

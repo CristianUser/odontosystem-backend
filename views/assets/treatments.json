@@ -1,0 +1,22 @@
+[
+	{ "id":"01.01", "name":"Limpieza normal", "applyFace": false, "applyTooth": false },
+	{ "id":"01.04", "name":"Limpieza profunda", "applyFace": false, "applyTooth": false },
+	{ "id":"01.02", "name":"Extraccion dental", "applyFace": false, "applyTooth": true },
+	{ "id":"01.03", "name":"Puente dental", "applyFace": false, "applyTooth": true },
+	{ "id":"01.05", "name":"Resina Normal", "applyFace": true, "applyTooth": false },
+	{ "id":"01.06", "name":"Resina Reconstruccion", "applyFace": true, "applyTooth": true },
+	{ "id":"01.07", "name":"Endodoncia 1 conducto", "applyFace": false, "applyTooth": true },
+	{ "id":"01.08", "name":"Endodoncia 2 conductos", "applyFace": false, "applyTooth": true },
+	{ "id":"01.09", "name":"Endodoncia 3 conductos", "applyFace": false, "applyTooth": true },
+	{ "id":"01.10", "name":"Brackets Economic", "applyFace": false, "applyTooth": false },
+	{ "id":"01.11", "name":"Brackets Regular", "applyFace": false, "applyTooth": false },
+	{ "id":"01.12", "name":"Brackets Premium", "applyFace": false, "applyTooth": false },
+	{ "id":"01.13", "name":"Brackets Innovation L", "applyFace": false, "applyTooth": false },
+	{ "id":"01.14", "name":"Brackets Innovation R", "applyFace": false, "applyTooth": false },
+	{ "id":"01.15", "name":"Corona en Porcelana", "applyFace": false, "applyTooth": true },
+	{ "id":"01.16", "name":"Corona en EMAX", "applyFace": false, "applyTooth": true },
+	{ "id":"01.17", "name":"Corona en Zirconia", "applyFace": false, "applyTooth": true },
+	{ "id":"01.18", "name":"Corona en Acrilico", "applyFace": false, "applyTooth": true },
+	{ "id":"01.19", "name":"Brackets", "applyFace": false, "applyTooth": false },
+	{ "id":"01.20", "name":"Brackets", "applyFace": false, "applyTooth": false }
+]

@@ -1,0 +1,23 @@
+[
+	{ "treatmentId":"01.01", "price":"1000" },
+	{ "treatmentId":"01.04", "price":"2500" },
+	{ "treatmentId":"01.02", "price":"2000" },
+	{ "treatmentId":"01.03", "price":"3200" },
+	{ "treatmentId":"01.04", "price":"3200" },
+	{ "treatmentId":"01.05", "price":"1200" },
+	{ "treatmentId":"01.06", "price":"2500" },
+	{ "treatmentId":"01.07", "price":"5000" },
+	{ "treatmentId":"01.08", "price":"7000" },
+	{ "treatmentId":"01.09", "price":"1000" },
+	{ "treatmentId":"01.10", "price":"18000" },
+	{ "treatmentId":"01.11", "price":"26000" },
+	{ "treatmentId":"01.12", "price":"36000" },
+	{ "treatmentId":"01.13", "price":"68000" },
+	{ "treatmentId":"01.14", "price":"70000" },
+	{ "treatmentId":"01.15", "price":"7500" },
+	{ "treatmentId":"01.16", "price":"16000" },
+	{ "treatmentId":"01.17", "price":"18000" },
+	{ "treatmentId":"01.18", "price":"1000" },
+	{ "treatmentId":"01.19", "price":"3200" },
+	{ "treatmentId":"01.20", "price":"3200" }
+]
